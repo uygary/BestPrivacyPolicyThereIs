@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Kthulhu Enterprizes built the BopMania app as a Free app. This SERVICE is provided by Kthulhu Enterprizes at no cost and is intended for use as is.
+Kthulhu Enterprizes built this app as a Free application. This SERVICE is provided by Kthulhu Enterprizes at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
