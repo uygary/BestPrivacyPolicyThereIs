@@ -59,4 +59,4 @@ This policy is effective as of 2020-07-26
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at `info AT entropik DOT net`.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: `info AT entropik DOT net`
